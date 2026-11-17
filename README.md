@@ -1,5 +1,5 @@
-﻿# 2026-11-17-git
+﻿# learning-about-version-control
 
-DSCI 522 Git and GitHub workflow practice repository.
+Learning about Version Control
 
 Author: Chloe Surbeck
